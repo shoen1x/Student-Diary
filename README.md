@@ -24,7 +24,7 @@ project, information about their studies.
     <a href="https://www.instagram.com/nmv_n1x/"><strong>Developer's Social Media »</strong></a>
     <br />
     <br />
-    <a href="https://www.behance.net/gallery/141503291/Karnival-FYPro-Com-20192020-UMP>Full visual documentation/a>
+    <a href="https://www.behance.net/gallery/141503291/Karnival-FYPro-Com-20192020-UMP">Full visual documentation/a>
   </p>
 </div>
 
