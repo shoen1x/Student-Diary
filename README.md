@@ -12,10 +12,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/shoen1x/Student-Diary">
-    <img src="images/wallpapus.webp" alt="Logo" width="80" height="80">
+    <img src="Images/logo.png" alt="Banner" width="410" height="200">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Student Diary Application</h3>
 
   <p align="center">
     Student’s Diary Application is a mobile application that allows store their assignment, 
