@@ -129,12 +129,28 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+- [x] Basic Features
+    - [x] Get Started
+    - [x] Login & Register
+    - [x] Profile
+    - [x] Settings
+- [x] Main File Explorer
+    - [x] File Manager
+        - [x] File display, reminder, create, delete, upload to database
+    - [x] Note Manager
+        - [x] Note display, reminder, create, delete, upload to database
+- [x] Toolbar Features
+    - [x] Reminder & Notification
+    - [x] Academic Subject
+    - [x] Academic Achievement
+    - [x] Attendance Record
+- [x] Resume Collection & Database Push-out
+- [x] Integrated CV Information
+    - [x] Collected data from database
+        - [x] Real-time PDF Generated CV
+    - [ ] TBA
+    
+See the [open issues](https://github.com/shoen1x/Student-Diary/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,9 +186,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Shoenix Studios - [@instagram_handle](https://instagram.com/shoenix_studios) - mohdmuizz22@yahoo.com
+Shoenix Studios - [Instagram](https://instagram.com/shoenix_studios) - [Email](mailto:shoenixstudios@gmail.com)
 
-Project Link: [https://github.com/shoen1x/Student-Diary](https://github.com/shoen1x/Student-Diary)
+Project Link: [Here](https://github.com/shoen1x/Student-Diary)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,7 +197,7 @@ Project Link: [https://github.com/shoen1x/Student-Diary](https://github.com/shoe
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []() DR RAHMAH BINTI MOKHTAR, UMP Malaysia
+* [UMP Malaysia](https://www.ump.edu.my/en) DR RAHMAH BINTI MOKHTAR
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,4 +229,4 @@ Project Link: [https://github.com/shoen1x/Student-Diary](https://github.com/shoe
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
