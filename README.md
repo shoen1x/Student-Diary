@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/shoen1x/Student-Diary">
-    <img src="Images/logo.png" alt="Banner" width="410" height="200">
+    <img src="Images/logo.png" alt="Banner" width="790" height="200">
   </a>
 
 <h3 align="center">Student Diary Application</h3>
