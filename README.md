@@ -61,9 +61,28 @@ project, information about their studies.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![TBA SOON!][product-screenshot]](https://example.com)
+<div align="center">
+    <br />
+<a href="https://github.com/shoen1x/Student-Diary">
+  <img src="Images/Header.png" alt="Banner" width="417" height="687">
+</a>
 
-`TBA soon!`
+  <p align="center">
+      <br />
+    Student’s Diary Application is a mobile application that allows store their assignment, 
+project, information about their studies. Not only that, users also can generate their own CV/ 
+Portfolio based on their activities and information that have been saved on the application. As 
+we know, most students in university are usually busy and have less time to store their works
+in single and secure place. This application will be going to help them to save all their works 
+easier than manually on book or small notes pad. This Application will sort all the information 
+that have been saved based on current semester, user also can edit the and delete info that have 
+been saved on the application. It is important for students to have a mobile application system 
+that can store their information anytime and anywhere. This system will produce good outcome 
+for users as it is efficient and easy to use.
+    <br />
+  </p>
+
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,9 +137,9 @@ Alpha - Dev Version only
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Get started the application with registering and login, after that the user will be forwarded to profile page for finalizing the profile with additional information. After that user can use all features available as note, file, reminder and CV maker.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/shoen1x/Student-Diary/tree/main/documentation/Documentation.pdf)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -217,7 +236,6 @@ Project Link: [Here](https://github.com/shoen1x/Student-Diary)
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
 [C++.c]: https://img.shields.io/badge/c++-20232A?style=for-the-badge&logo=c&logoColor=61DAFB
 [C++-url]: https://isocpp.org/
 [Firebase.fb]: https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=61DAFB
