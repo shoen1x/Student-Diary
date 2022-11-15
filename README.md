@@ -6,7 +6,6 @@
 -->
 
 
-<!-- PROJECT SHIELDS -->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -203,7 +202,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Shoenix Studios - [Instagram](https://instagram.com/shoenix_studios) - [Email](mailto:shoenixstudios@gmail.com)
-
 Project Link: [Here](https://github.com/shoen1x/Student-Diary)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -214,6 +212,7 @@ Project Link: [Here](https://github.com/shoen1x/Student-Diary)
 ## Acknowledgments
 
 * [UMP Malaysia](https://www.ump.edu.my/en) DR RAHMAH BINTI MOKHTAR
+* [Shoenix Studios](https://instagram.com/shoenix_studios) Shoenix Studios
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
