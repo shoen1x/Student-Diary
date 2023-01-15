@@ -1,0 +1,10 @@
+# Core
+**Core Apk
+
+# Javascript
+
+# Log files
+*.log
+
+# htaccess
+/.htaccess
