@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:theme="@style/AppTheme.AppBarOverlay" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:id="@+id/notetoolbardetails" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:popupTheme="@style/AppTheme.PopupOverlay">
+            <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="#ffffff" android:id="@+id/noteDetailsTitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="TextView" android:fontFamily="@font/product_sans_regular"/>
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+    <include layout="@layout/content_note_details"/>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:id="@+id/fab" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/fab_margin" android:fontFamily="@font/product_sans_regular" app:backgroundTint="@color/colorPrimaryDark" app:maxImageSize="35dp" app:srcCompat="@drawable/ic_mode_edit_black_24dp"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

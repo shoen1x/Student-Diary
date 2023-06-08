@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:theme="@style/AppTheme.AppBarOverlay" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:id="@+id/noteToolbarAdd" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:popupTheme="@style/AppTheme.PopupOverlay">
+            <EditText android:textStyle="bold" android:textColor="#fff" android:textColorHint="#ffffff" android:id="@+id/addNoteTitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@android:string/untitled" android:ems="10" android:inputType="textPersonName" android:fontFamily="@font/product_sans_regular" android:backgroundTint="@android:color/transparent"/>
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+    <include layout="@layout/content_add_note"/>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:id="@+id/fab" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/fab_margin" android:backgroundTint="@color/whiteTextColor" android:outlineSpotShadowColor="@color/colorPrimary" android:outlineAmbientShadowColor="@color/colorPrimary" app:backgroundTint="@color/colorPrimary" app:maxImageSize="49dp" app:srcCompat="@drawable/ic_add_circle_black_24dp"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

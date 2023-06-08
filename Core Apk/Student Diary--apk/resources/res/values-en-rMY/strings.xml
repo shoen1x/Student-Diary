@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Academic">Akademik</string>
+    <string name="Attendance">Kehadiran</string>
+    <string name="Complete_Acc">Selesai</string>
+    <string name="Curriculum"> Kurikulum</string>
+    <string name="General">Umum</string>
+    <string name="Incomplete_Acc">Tidak Selesai</string>
+    <string name="Notes">Nota</string>
+    <string name="Save">Simpan</string>
+    <string name="Support">Sokongan</string>
+    <string name="Title_hint">Selamat Datang</string>
+    <string name="action_settings">Tetapan</string>
+    <string name="addNotes">Tambah Nota</string>
+    <string name="app_name">Diari Pelajar</string>
+    <string name="close">Tutup</string>
+    <string name="delete_notes">Padam Nota</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Kata Laluan</string>
+    <string name="logout">Log Keluar</string>
+    <string name="no_notes">Tiada Nota !</string>
+    <string name="open">Buka</string>
+    <string name="rateApp">Menilai App</string>
+    <string name="schedule">Jadual</string>
+    <string name="shareApp">Kongsi App</string>
+    <string name="share_note">Kongsi Nota</string>
+    <string name="syncNotes">Selaras Nota</string>
+    <string name="title_activity_add_note">Tambah nota</string>
+    <string name="title_activity_note_details">perincian nota</string>
+    <string name="whats_in_your_mind">Apa yang ada dalam fikiran anda</string>
+</resources>
