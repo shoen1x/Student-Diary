@@ -1,11 +1,7 @@
 # Student-Diary
-<!-- Students Diary --Working Environment Version (Private build) -->
-<a name="readme-top"></a>
-<!--
-*** This was made around alpha and beta version, may break sometimes, required multiples revision
+<!-- Students Diary --Dev environment version (prototype build) -->
+<!-- *** This was made around alpha and beta version (prototype build), may break sometimes, required multiples revision
 -->
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -13,21 +9,12 @@
   <a href="https://github.com/shoen1x/Student-Diary">
     <img src="Images/logo.png" alt="Banner" width="790" height="200">
   </a>
-
-<h3 align="center">Student Diary Application</h3>
-
+<h1 align="center">Student Diary Application</h1>
   <p align="center">
-    Student’s Diary Application is a mobile application that allows store their assignment, 
-project, information about their studies.
-    <br />
-    <a href="https://www.instagram.com/nmv_n1x/"><strong>Developer's Social Media »</strong></a>
-    <br />
-    <br />
-    <a href="https://www.behance.net/gallery/141503291/Karnival-FYPro-Com-20192020-UMP">Full visual documentation</a>
+    <b>Student’s Diary Application</b> is a mobile application that allows store their assignment, project, information about their studies.
   </p>
+  <a href="https://www.behance.net/gallery/141503291/Karnival-FYPro-Com-20192020-UMP">Full visual documentation on <b>Behance</b></a>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -42,15 +29,12 @@ project, information about their studies.
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -62,7 +46,7 @@ project, information about their studies.
 
 <div align="center">
     <br />
-<a href="https://github.com/shoen1x/Student-Diary">
+<a href="https://www.behance.net/gallery/141503291/Karnival-FYPro-Com-20192020-UMP" title="Click here to see full version">
   <img src="Images/Header.png" alt="Banner" width="417" height="687">
 </a>
 
@@ -83,63 +67,34 @@ for users as it is efficient and easy to use.
 
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ### Built With
 
 * [![Java][Java.js]][java-url]
 * [![C++][C++.c]][C++-url]
 * [![Firebase][Firebase.fb]][Firebase-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This program was required consistent internet during start up. Latest android version also required in order to avoid any potential crash and bug.
+This program was required consistent internet during start up. Latest android version <b>( Version 8.1 upon testing )</b> also required in order to avoid any potential crash and bug.
 
-### Prerequisites
+<!-- ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them. (Dev only)
 * npm
   ```sh
   npm install npm@latest -g
-  ```
+  ``` -->
 
 ### Installation
 
-Alpha - Dev Version only
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+Prototype - Dev Version only ( Outdated )
+1. APK files was only obtainable from Invitation only ( prior 2017 and further, the apk files with custom fixes will not be available to download anymore).
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Get started the application with registering and login, after that the user will be forwarded to profile page for finalizing the profile with additional information. After that user can use all features available as note, file, reminder and CV maker.
-
-_For more examples, please refer to the [Documentation](https://github.com/shoen1x/Student-Diary/tree/main/documentation/Documentation.pdf)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -165,14 +120,11 @@ _For more examples, please refer to the [Documentation](https://github.com/shoen
         - [x] Real-time PDF Generated CV
     - [ ] TBA
     
-See the [open issues](https://github.com/shoen1x/Student-Diary/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/shoen1x/Student-Diary/issues) for a full list of proposed features (and known issues). 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- CONTRIBUTING (This project is archived, 
+contribution was accepted anymore) -->
+<!-- ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -183,40 +135,16 @@ Don't forget to give the project a star! Thanks again!
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+5. Open a Pull Request -->
 
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Shoenix Studios - [Instagram](https://instagram.com/shoenix_studios) - [Email](mailto:shoenixstudios@gmail.com)
-Project Link: [Here](https://github.com/shoen1x/Student-Diary)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [UMP Malaysia](https://www.ump.edu.my/en) DR RAHMAH BINTI MOKHTAR
-* [Shoenix Studios](https://instagram.com/shoenix_studios) Shoenix Studios
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+* [UMP Malaysia](https://www.ump.edu.my/en) <b>SUPERVISOR</b> DR. Rahmah Binti Mokhtar
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

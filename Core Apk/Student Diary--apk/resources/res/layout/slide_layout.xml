@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:orientation="vertical" android:id="@+id/slidelinearlayout" android:layout_width="match_parent" android:layout_height="match_parent">
-    <ImageView android:id="@+id/slideimg" android:layout_width="200dp" android:layout_height="200dp"/>
-    <TextView android:textSize="30sp" android:textStyle="bold" android:textColor="#fff" android:id="@+id/txttitle" android:padding="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Title Here" android:fontFamily="@font/product_sans_bold"/>
-    <TextView android:textSize="17sp" android:textColor="#fff" android:id="@+id/txtdescription" android:padding="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Description is Here" android:fontFamily="@font/product_sans_regular" android:textAlignment="center"/>
-</LinearLayout>

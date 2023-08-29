@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
-    <item android:icon="@drawable/ic_schedule" android:id="@+id/media_schedule" android:title="@string/schedule" android:fontFamily="@font/product_sans_regular" app:showAsAction="ifRoom"/>
-    <item android:icon="@drawable/ic_academic" android:id="@+id/media_academic" android:title="@string/Academic" android:fontFamily="@font/product_sans_regular" app:showAsAction="ifRoom"/>
-    <item android:enabled="false" android:id="@+id/Null" android:title="Null" android:checkable="false" app:showAsAction="ifRoom"/>
-    <item android:icon="@drawable/ic_curriculum" android:id="@+id/media_curriculum" android:title="@string/Curriculum" android:fontFamily="@font/product_sans_regular" app:showAsAction="always"/>
-    <item android:icon="@drawable/ic_attendance" android:id="@+id/media_attendance" android:title="@string/Attendance" android:fontFamily="@font/product_sans_regular" app:showAsAction="always"/>
-</menu>
