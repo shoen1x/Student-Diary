@@ -1,4 +1,4 @@
-# Student-Diary
+# Student-Diary (Archived)
 <!-- Students Diary --Dev environment version (prototype build) -->
 <!-- *** This was made around alpha and beta version (prototype build), may break sometimes, required multiples revision
 -->
