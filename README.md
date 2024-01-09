@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/shoen1x/Student-Diary">
-    <img src="Images/logo.png" alt="Banner" width="790" height="200">
+    <img src="Images/logo.png" alt="Banner" width="501" height="201">
   </a>
 <h1 align="center">Student Diary Application</h1>
   <p align="center">
@@ -47,7 +47,7 @@
 <div align="center">
     <br />
 <a href="https://www.behance.net/gallery/141503291/Karnival-FYPro-Com-20192020-UMP" title="Click here to see full version">
-  <img src="Images/Header.png" alt="Banner" width="417" height="687">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/1f6982141503291.6401e5afe5b47.jpg" alt="Banner">
 </a>
 
   <p align="center">
@@ -88,8 +88,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-Prototype - Dev Version only ( Outdated )
-1. APK files was only obtainable from Invitation only ( prior 2017 and further, the apk files with custom fixes will not be available to download anymore).
+Prototype - Terminated
 
 <!-- USAGE EXAMPLES -->
 ## Usage
